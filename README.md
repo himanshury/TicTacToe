@@ -11,7 +11,7 @@ This app allows two players to play against each other on a 3x3 grid. The game e
 1. **Clone the Repository**: Start by cloning this repository to your local machine.
 
    ```
-   git clone https://github.com/himanshury/MyQuizApp.git
+   git clone https://github.com/himanshury/TicTacToe.git
    ```
 
 2. **Open in Android Studio**: Open the project in Android Studio by selecting "Open an existing Android Studio project."
